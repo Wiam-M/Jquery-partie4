@@ -1,0 +1,17 @@
+h1, h2{
+    text-align: center;
+    color: blueviolet;
+}
+div{
+    background-color: palevioletred;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    margin: 20px auto;
+}
+button{
+    background-color: rgb(151, 106, 194);
+    margin: 20px 50px;
+}
+
+

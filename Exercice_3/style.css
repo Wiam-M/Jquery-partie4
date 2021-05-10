@@ -1,0 +1,16 @@
+h1, p{
+    text-align: center;
+    color: blueviolet;
+}
+input{
+    margin-left: 40%;
+}
+button{
+    background-color: rgb(151, 106, 194);
+    border: 1px solide aquamarine;
+}
+
+div{
+    text-align: center;
+    margin: 20px auto;
+}

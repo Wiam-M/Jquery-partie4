@@ -1,0 +1,18 @@
+h1, p{
+    text-align: center;
+    color: blueviolet;
+}
+
+input{
+    background-color: rgb(173, 207, 169);
+    margin: 2% 45%;
+}
+
+.div{
+    width: 100px;
+    height: 100px;
+    /* position: relative;
+    margin: 200px auto 0; */
+    background: yellowgreen;
+}
+
